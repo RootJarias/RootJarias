@@ -30,7 +30,7 @@ I am active on Facebook, Instagram, and GitHub, as well as through my email (roo
 ### Graphics Development
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-470137?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-470137?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=#FF61F6)
-![Adobe Premier](https://img.shields.io/badge/Adobe%20Premier-470137?style=for-the-badge&logo=Adobe%20Premier&logoColor=#FF61F6)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-470137?style=for-the-badge&logo=Adobe%20Premiere&logoColor=#FF61F6)
 
 <!--
 **RootJarias/RootJarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
