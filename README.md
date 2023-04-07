@@ -25,7 +25,11 @@ I am active on Facebook, Instagram, and GitHub, as well as through my email (roo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Web Platforms
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/aws-%23039BE5.svg?style=for-the-badge&logo=aws)
+![GCP](https://img.shields.io/badge/gcp-%23039BE5.svg?style=for-the-badge&logo=gcp)
 
 ### Graphics Development
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-470137?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=#FF61F6)
