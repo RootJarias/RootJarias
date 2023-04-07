@@ -1,6 +1,7 @@
 <!--
 Notes:
-  - Badges (https://dev.to/envoy_/150-badges-for-github-pnk) 
+  - Badges (https://dev.to/envoy_/150-badges-for-github-pnk)
+  - Emojis (https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/#officeemojis)
 -->
 
 ### Hi there! 👋
