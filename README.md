@@ -24,13 +24,12 @@ I am active on Facebook, Instagram, and GitHub, as well as through my email (roo
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![VUE](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=%2361DAFB)
+![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Graphics Development
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-470137?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-470137?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=#FF61F6)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-470137?style=for-the-badge&logo=Adobe%20Premiere&logoColor=#FF61F6)
 
 <!--
 **RootJarias/RootJarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
