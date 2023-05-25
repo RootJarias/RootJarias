@@ -22,6 +22,7 @@ I am active on Facebook, Instagram, and GitHub, as well as through my email (roo
 - [AutoCare](https://merchant.autocare-app.com/)
 - [Landlocator](https://landlocator.com.au/)
 - [Kure](https://the.kure.app/login)
+- [GLSS](https://beta.glss.app/login)
 
 ## ⚡ My Tech Stack
 ### Front-end Deveploment
